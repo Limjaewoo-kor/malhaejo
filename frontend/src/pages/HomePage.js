@@ -74,7 +74,7 @@ export default function HomePage() {
         </div>
         <div className="flex items-start justify-end">
           <div className="bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-white px-4 py-2 rounded-xl max-w-[75%]">
-            안녕하세요. 주문하신 택배가 아직 도착하지 않아 연락드립니다.
+            안녕하세요. 주문한 택배가 아직 도착하지 않아 연락드립니다.
           </div>
         </div>
         <div className="flex items-start">
