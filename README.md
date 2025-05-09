@@ -8,3 +8,8 @@
 ### 환경 변수
 - `REACT_APP_API_URL`
 - `OPENAI_API_KEY`
+
+
+<img width="1084" alt="mal_1" src="https://github.com/user-attachments/assets/e0222c48-a66e-4148-8165-bb4ef99400c3" />
+
+
